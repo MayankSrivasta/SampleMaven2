@@ -1,0 +1,577 @@
+<xref>
+  <stories>
+    <performableStory>
+      <story>
+        <path>stories/consult_story/bge.story</path>
+        <description>
+          <descriptionAsString></descriptionAsString>
+        </description>
+        <narrative>
+          <inOrderTo></inOrderTo>
+          <asA></asA>
+          <iWantTo></iWantTo>
+          <soThat></soThat>
+        </narrative>
+        <meta>
+          <properties/>
+        </meta>
+        <givenStories>
+          <givenStories/>
+          <givenStoriesAsString></givenStoriesAsString>
+          <examplesTable>
+            <tableAsString></tableAsString>
+            <headerSeparator>|</headerSeparator>
+            <valueSeparator>|</valueSeparator>
+            <ignorableSeparator>|--</ignorableSeparator>
+            <tableTransformers>
+              <transformers>
+                <entry>
+                  <string>FORMATTING</string>
+                  <formatting/>
+                </entry>
+                <entry>
+                  <string>REPLACING</string>
+                  <replacing/>
+                </entry>
+                <entry>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
+                </entry>
+              </transformers>
+            </tableTransformers>
+            <headers/>
+            <data/>
+            <properties>
+              <property name="headerSeparator" value="|"/>
+              <property name="valueSeparator" value="|"/>
+              <property name="ignorableSeparator" value="|--"/>
+            </properties>
+            <propertiesAsString></propertiesAsString>
+            <namedParameters/>
+            <trim>true</trim>
+          </examplesTable>
+        </givenStories>
+        <lifecycle>
+          <before>
+            <steps class="java.util.Arrays$ArrayList">
+              <a class="string-array"/>
+            </steps>
+          </before>
+          <after/>
+        </lifecycle>
+        <scenarios>
+          <scenario>
+            <title>Customer view Header on the Home Us page</title>
+            <meta>
+              <properties>
+                <property name="regression" value=""/>
+              </properties>
+            </meta>
+            <givenStories>
+              <givenStories/>
+              <givenStoriesAsString></givenStoriesAsString>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+            </givenStories>
+            <examplesTable>
+              <tableAsString></tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers/>
+              <data/>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+            <steps>
+              <string>Given Tom a customer</string>
+              <string>When Tom is on the Home page</string>
+              <string>Then Tom should be able to see the BGE logo on Home page</string>
+            </steps>
+          </scenario>
+        </scenarios>
+        <name>bge.story</name>
+      </story>
+      <localizedNarrative>As a 
+I want to 
+So that </localizedNarrative>
+      <allowed>true</allowed>
+      <status>SUCCESSFUL</status>
+      <givenStories/>
+      <scenarios>
+        <performableScenario>
+          <scenario>
+            <title>Customer view Header on the Home Us page</title>
+            <meta>
+              <properties>
+                <property name="regression" value=""/>
+              </properties>
+            </meta>
+            <givenStories>
+              <givenStories/>
+              <givenStoriesAsString></givenStoriesAsString>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+            </givenStories>
+            <examplesTable>
+              <tableAsString></tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers/>
+              <data/>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+            <steps>
+              <string>Given Tom a customer</string>
+              <string>When Tom is on the Home page</string>
+              <string>Then Tom should be able to see the BGE logo on Home page</string>
+            </steps>
+          </scenario>
+          <storyPath>stories/consult_story/bge.story</storyPath>
+          <allowed>true</allowed>
+          <normalPerformableScenario>
+            <parameters/>
+            <givenStories/>
+            <beforeSteps>
+              <matches/>
+            </beforeSteps>
+            <steps>
+              <matches/>
+              <results>
+                <successful>
+                  <step>Given Tom a customer</step>
+                  <type>SUCCESSFUL</type>
+                  <parametrisedStep>Given Tom a customer</parametrisedStep>
+                  <durationInMillis>22279</durationInMillis>
+                </successful>
+                <successful>
+                  <step>When Tom is on the Home page</step>
+                  <type>SUCCESSFUL</type>
+                  <parametrisedStep>When Tom is on the Home page</parametrisedStep>
+                  <durationInMillis>888</durationInMillis>
+                </successful>
+                <successful>
+                  <step>Then Tom should be able to see the BGE logo on Home page</step>
+                  <type>SUCCESSFUL</type>
+                  <parametrisedStep>Then Tom should be able to see the BGE logo on Home page</parametrisedStep>
+                  <durationInMillis>961</durationInMillis>
+                </successful>
+              </results>
+            </steps>
+            <afterSteps>
+              <matches/>
+            </afterSteps>
+            <storyAndScenarioMeta>
+              <properties>
+                <property name="regression" value=""/>
+              </properties>
+            </storyAndScenarioMeta>
+            <scenario>
+              <title>Customer view Header on the Home Us page</title>
+              <meta>
+                <properties>
+                  <property name="regression" value=""/>
+                </properties>
+              </meta>
+              <givenStories>
+                <givenStories/>
+                <givenStoriesAsString></givenStoriesAsString>
+                <examplesTable>
+                  <tableAsString></tableAsString>
+                  <headerSeparator>|</headerSeparator>
+                  <valueSeparator>|</valueSeparator>
+                  <ignorableSeparator>|--</ignorableSeparator>
+                  <tableTransformers>
+                    <transformers>
+                      <entry>
+                        <string>FORMATTING</string>
+                        <formatting/>
+                      </entry>
+                      <entry>
+                        <string>REPLACING</string>
+                        <replacing/>
+                      </entry>
+                      <entry>
+                        <string>FROM_LANDSCAPE</string>
+                        <fromLandscape/>
+                      </entry>
+                    </transformers>
+                  </tableTransformers>
+                  <headers/>
+                  <data/>
+                  <properties>
+                    <property name="headerSeparator" value="|"/>
+                    <property name="valueSeparator" value="|"/>
+                    <property name="ignorableSeparator" value="|--"/>
+                  </properties>
+                  <propertiesAsString></propertiesAsString>
+                  <namedParameters/>
+                  <trim>true</trim>
+                </examplesTable>
+              </givenStories>
+              <examplesTable>
+                <tableAsString></tableAsString>
+                <headerSeparator>|</headerSeparator>
+                <valueSeparator>|</valueSeparator>
+                <ignorableSeparator>|--</ignorableSeparator>
+                <tableTransformers>
+                  <transformers>
+                    <entry>
+                      <string>FORMATTING</string>
+                      <formatting/>
+                    </entry>
+                    <entry>
+                      <string>REPLACING</string>
+                      <replacing/>
+                    </entry>
+                    <entry>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
+                    </entry>
+                  </transformers>
+                </tableTransformers>
+                <headers/>
+                <data/>
+                <properties>
+                  <property name="headerSeparator" value="|"/>
+                  <property name="valueSeparator" value="|"/>
+                  <property name="ignorableSeparator" value="|--"/>
+                </properties>
+                <propertiesAsString></propertiesAsString>
+                <namedParameters/>
+                <trim>true</trim>
+              </examplesTable>
+              <steps>
+                <string>Given Tom a customer</string>
+                <string>When Tom is on the Home page</string>
+                <string>Then Tom should be able to see the BGE logo on Home page</string>
+              </steps>
+            </scenario>
+          </normalPerformableScenario>
+          <examplePerformableScenarios/>
+          <status>SUCCESSFUL</status>
+        </performableScenario>
+      </scenarios>
+      <beforeSteps/>
+      <afterSteps/>
+      <timing>
+        <durationInMillis>25866</durationInMillis>
+      </timing>
+      <givenStory>false</givenStory>
+    </performableStory>
+  </stories>
+  <scenarios>
+    <performableScenario>
+      <scenario>
+        <title>Customer view Header on the Home Us page</title>
+        <meta>
+          <properties>
+            <property name="regression" value=""/>
+          </properties>
+        </meta>
+        <givenStories>
+          <givenStories/>
+          <givenStoriesAsString></givenStoriesAsString>
+          <examplesTable>
+            <tableAsString></tableAsString>
+            <headerSeparator>|</headerSeparator>
+            <valueSeparator>|</valueSeparator>
+            <ignorableSeparator>|--</ignorableSeparator>
+            <tableTransformers>
+              <transformers>
+                <entry>
+                  <string>FORMATTING</string>
+                  <formatting/>
+                </entry>
+                <entry>
+                  <string>REPLACING</string>
+                  <replacing/>
+                </entry>
+                <entry>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
+                </entry>
+              </transformers>
+            </tableTransformers>
+            <headers/>
+            <data/>
+            <properties>
+              <property name="headerSeparator" value="|"/>
+              <property name="valueSeparator" value="|"/>
+              <property name="ignorableSeparator" value="|--"/>
+            </properties>
+            <propertiesAsString></propertiesAsString>
+            <namedParameters/>
+            <trim>true</trim>
+          </examplesTable>
+        </givenStories>
+        <examplesTable>
+          <tableAsString></tableAsString>
+          <headerSeparator>|</headerSeparator>
+          <valueSeparator>|</valueSeparator>
+          <ignorableSeparator>|--</ignorableSeparator>
+          <tableTransformers>
+            <transformers>
+              <entry>
+                <string>FORMATTING</string>
+                <formatting/>
+              </entry>
+              <entry>
+                <string>REPLACING</string>
+                <replacing/>
+              </entry>
+              <entry>
+                <string>FROM_LANDSCAPE</string>
+                <fromLandscape/>
+              </entry>
+            </transformers>
+          </tableTransformers>
+          <headers/>
+          <data/>
+          <properties>
+            <property name="headerSeparator" value="|"/>
+            <property name="valueSeparator" value="|"/>
+            <property name="ignorableSeparator" value="|--"/>
+          </properties>
+          <propertiesAsString></propertiesAsString>
+          <namedParameters/>
+          <trim>true</trim>
+        </examplesTable>
+        <steps>
+          <string>Given Tom a customer</string>
+          <string>When Tom is on the Home page</string>
+          <string>Then Tom should be able to see the BGE logo on Home page</string>
+        </steps>
+      </scenario>
+      <storyPath>stories/consult_story/bge.story</storyPath>
+      <allowed>true</allowed>
+      <normalPerformableScenario>
+        <parameters/>
+        <givenStories/>
+        <beforeSteps>
+          <matches/>
+        </beforeSteps>
+        <steps>
+          <matches/>
+          <results>
+            <successful>
+              <step>Given Tom a customer</step>
+              <type>SUCCESSFUL</type>
+              <parametrisedStep>Given Tom a customer</parametrisedStep>
+              <durationInMillis>22279</durationInMillis>
+            </successful>
+            <successful>
+              <step>When Tom is on the Home page</step>
+              <type>SUCCESSFUL</type>
+              <parametrisedStep>When Tom is on the Home page</parametrisedStep>
+              <durationInMillis>888</durationInMillis>
+            </successful>
+            <successful>
+              <step>Then Tom should be able to see the BGE logo on Home page</step>
+              <type>SUCCESSFUL</type>
+              <parametrisedStep>Then Tom should be able to see the BGE logo on Home page</parametrisedStep>
+              <durationInMillis>961</durationInMillis>
+            </successful>
+          </results>
+        </steps>
+        <afterSteps>
+          <matches/>
+        </afterSteps>
+        <storyAndScenarioMeta>
+          <properties>
+            <property name="regression" value=""/>
+          </properties>
+        </storyAndScenarioMeta>
+        <scenario>
+          <title>Customer view Header on the Home Us page</title>
+          <meta>
+            <properties>
+              <property name="regression" value=""/>
+            </properties>
+          </meta>
+          <givenStories>
+            <givenStories/>
+            <givenStoriesAsString></givenStoriesAsString>
+            <examplesTable>
+              <tableAsString></tableAsString>
+              <headerSeparator>|</headerSeparator>
+              <valueSeparator>|</valueSeparator>
+              <ignorableSeparator>|--</ignorableSeparator>
+              <tableTransformers>
+                <transformers>
+                  <entry>
+                    <string>FORMATTING</string>
+                    <formatting/>
+                  </entry>
+                  <entry>
+                    <string>REPLACING</string>
+                    <replacing/>
+                  </entry>
+                  <entry>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
+                  </entry>
+                </transformers>
+              </tableTransformers>
+              <headers/>
+              <data/>
+              <properties>
+                <property name="headerSeparator" value="|"/>
+                <property name="valueSeparator" value="|"/>
+                <property name="ignorableSeparator" value="|--"/>
+              </properties>
+              <propertiesAsString></propertiesAsString>
+              <namedParameters/>
+              <trim>true</trim>
+            </examplesTable>
+          </givenStories>
+          <examplesTable>
+            <tableAsString></tableAsString>
+            <headerSeparator>|</headerSeparator>
+            <valueSeparator>|</valueSeparator>
+            <ignorableSeparator>|--</ignorableSeparator>
+            <tableTransformers>
+              <transformers>
+                <entry>
+                  <string>FORMATTING</string>
+                  <formatting/>
+                </entry>
+                <entry>
+                  <string>REPLACING</string>
+                  <replacing/>
+                </entry>
+                <entry>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
+                </entry>
+              </transformers>
+            </tableTransformers>
+            <headers/>
+            <data/>
+            <properties>
+              <property name="headerSeparator" value="|"/>
+              <property name="valueSeparator" value="|"/>
+              <property name="ignorableSeparator" value="|--"/>
+            </properties>
+            <propertiesAsString></propertiesAsString>
+            <namedParameters/>
+            <trim>true</trim>
+          </examplesTable>
+          <steps>
+            <string>Given Tom a customer</string>
+            <string>When Tom is on the Home page</string>
+            <string>Then Tom should be able to see the BGE logo on Home page</string>
+          </steps>
+        </scenario>
+      </normalPerformableScenario>
+      <examplePerformableScenarios/>
+      <status>SUCCESSFUL</status>
+    </performableScenario>
+  </scenarios>
+</xref>

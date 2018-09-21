@@ -1,0 +1,25 @@
+<acceptance-test-run title="Customer view Header on the Home Us page" name="Customer view Header on the Home Us page" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="25803" timestamp="2018-09-21T11:58:44.199+05:30" session-id="aec31f02609538ee3de9f35512c2164d">
+  <user-story id="bge" name="Bge" path="stories/consult_story/bge.story"/>
+  <tags>
+    <tag name="Consult story" type="feature"/>
+    <tag name="Consult story/Bge" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="22806">
+    <screenshots>
+      <screenshot image="955047a0c85125a68210d31f6a185640.png"/>
+    </screenshots>
+    <description>Given Tom a customer</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1420">
+    <screenshots>
+      <screenshot image="79210950e04f90eaa344827d484482c8.png"/>
+    </screenshots>
+    <description>When Tom is on the Home page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1499">
+    <screenshots>
+      <screenshot image="b7e76bb4985ebac3925b162f285da1c2.png"/>
+    </screenshots>
+    <description>Then Tom should be able to see the BGE logo on Home page</description>
+  </test-step>
+</acceptance-test-run>

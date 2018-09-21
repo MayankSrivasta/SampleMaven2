@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="thucydides.GoogleSearch" time="2.271" tests="7" errors="0" skipped="3" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="java.vm.version" value="25.172-b25"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Users\698310\workspace\thucydides"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Users\698310\workspace\thucydides"/>
+    <property name="java.runtime.version" value="1.8.0_172-b25"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\698310\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Users\698310\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3499312229866932277.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Users\698310\Desktop\drivers;C:\Users\698310\apache-maven-3.5.4\bin;C:\Program Files\Python37;D:\drivers\firefox\;C:\Program Files\Python37\Scripts;C:\Users\698310\.m2\repository\apache-maven-3.5.4\bin;C:\Users\698310\AppData\Local\GitHubDesktop\bin;C:\Program Files\Python37\Scripts;C:\Program Files\Python37\;;D:\Downloads\eclipse-jee-neon-3-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\698310"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="698310"/>
+    <property name="java.class.path" value="/D:/Downloads/eclipse-jee-neon-3-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s C:\Users\698310\.m2\settings.xml install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Users\698310\workspace\thucydides\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="BeforeStories" classname="java.lang.Object" time="0.016"/>
+  <testcase name="[PENDING] Given Tom, a customer" classname="[PENDING] Given Tom, a customer" time="0">
+    <skipped/>
+    <system-out><![CDATA[
+Running story stories/NewStory.story
+
+(stories/NewStory.story)
+Scenario: Customer view Header on the Home Us page
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.build.directory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - project.reporting.OutputDirectory : null
+[pool-1-thread-1] INFO net.thucydides.core.webdriver.SystemPropertiesConfiguration - OutputDirectory : D:\Users\698310\workspace\thucydides\target\site\serenity
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+-------------------------------------------------------------------------------------
+
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - Test Suite Started: New story
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Customer view Header on the Home Us page
+-------------------------------------------------------------------
+]]></system-err>
+  </testcase>
+  <testcase name="[PENDING] When Tom, is on the Home page" classname="[PENDING] When Tom, is on the Home page" time="0">
+    <skipped/>
+    <system-out><![CDATA[Using timeout for story NewStory.story of 10000 secs.
+Given Tom, a customer (PENDING)
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - STARTING STEP Given Tom, a customer
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - PENDING STEP
+]]></system-err>
+  </testcase>
+  <testcase name="[PENDING] Then Tom, should be able to see the BGE logo on Home page" classname="[PENDING] Then Tom, should be able to see the BGE logo on Home page" time="0">
+    <skipped/>
+    <system-out><![CDATA[When Tom, is on the Home page (PENDING)
+]]></system-out>
+    <system-err><![CDATA[[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - STARTING STEP When Tom, is on the Home page
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - TEST PENDING
+[pool-1-thread-1] INFO net.serenitybdd.core.Serenity - PENDING STEP
+]]></system-err>
+  </testcase>
+  <testcase name="Scenario: Customer view Header on the Home Us page" classname="Scenario: Customer view Header on the Home Us page" time="0.079"/>
+  <testcase name="NewStory.story" classname="NewStory.story" time="0.141"/>
+  <testcase name="AfterStories" classname="java.lang.Object" time="0"/>
+</testsuite>

@@ -1,0 +1,695 @@
+{"xref": {
+  "stories": [
+    {
+      "story": {
+        "path": "stories/consult_story/bge.story",
+        "description": {
+          "descriptionAsString": ""
+        },
+        "narrative": {
+          "inOrderTo": "",
+          "asA": "",
+          "iWantTo": "",
+          "soThat": ""
+        },
+        "meta": {
+          "properties": []
+        },
+        "givenStories": {
+          "givenStories": [],
+          "givenStoriesAsString": "",
+          "examplesTable": {
+            "tableAsString": "",
+            "headerSeparator": "|",
+            "valueSeparator": "|",
+            "ignorableSeparator": "|--",
+            "tableTransformers": {
+              "transformers": [
+                [
+                  "FORMATTING",
+                  {}
+                ],
+                [
+                  "REPLACING",
+                  {}
+                ],
+                [
+                  "FROM_LANDSCAPE",
+                  {}
+                ]
+              ]
+            },
+            "headers": [],
+            "data": [],
+            "properties": [
+              {
+                "@name": "headerSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "valueSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "ignorableSeparator",
+                "@value": "|--"
+              }
+            ],
+            "propertiesAsString": "",
+            "namedParameters": [],
+            "trim": true
+          }
+        },
+        "lifecycle": {
+          "before": {
+            "steps": [
+              []
+            ]
+          },
+          "after": []
+        },
+        "scenarios": [
+          {
+            "title": "Customer view Header on the Home Us page",
+            "meta": {
+              "properties": [
+                {
+                  "@name": "regression",
+                  "@value": ""
+                }
+              ]
+            },
+            "givenStories": {
+              "givenStories": [],
+              "givenStoriesAsString": "",
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              }
+            },
+            "examplesTable": {
+              "tableAsString": "",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [],
+              "data": [],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            },
+            "steps": [
+              "Given Tom a customer",
+              "When Tom is on the Home page",
+              "Then Tom should be able to see the BGE logo on Home page"
+            ]
+          }
+        ],
+        "name": "bge.story"
+      },
+      "localizedNarrative": "As a \nI want to \nSo that ",
+      "allowed": true,
+      "status": "SUCCESSFUL",
+      "givenStories": [],
+      "scenarios": [
+        {
+          "scenario": {
+            "title": "Customer view Header on the Home Us page",
+            "meta": {
+              "properties": [
+                {
+                  "@name": "regression",
+                  "@value": ""
+                }
+              ]
+            },
+            "givenStories": {
+              "givenStories": [],
+              "givenStoriesAsString": "",
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              }
+            },
+            "examplesTable": {
+              "tableAsString": "",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [],
+              "data": [],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            },
+            "steps": [
+              "Given Tom a customer",
+              "When Tom is on the Home page",
+              "Then Tom should be able to see the BGE logo on Home page"
+            ]
+          },
+          "storyPath": "stories/consult_story/bge.story",
+          "allowed": true,
+          "normalPerformableScenario": {
+            "parameters": [],
+            "givenStories": [],
+            "beforeSteps": {
+              "matches": []
+            },
+            "steps": {
+              "matches": [],
+              "results": [
+                {
+                  "step": "Given Tom a customer",
+                  "type": "SUCCESSFUL",
+                  "parametrisedStep": "Given Tom a customer",
+                  "durationInMillis": 22279
+                },
+                {
+                  "step": "When Tom is on the Home page",
+                  "type": "SUCCESSFUL",
+                  "parametrisedStep": "When Tom is on the Home page",
+                  "durationInMillis": 888
+                },
+                {
+                  "step": "Then Tom should be able to see the BGE logo on Home page",
+                  "type": "SUCCESSFUL",
+                  "parametrisedStep": "Then Tom should be able to see the BGE logo on Home page",
+                  "durationInMillis": 961
+                }
+              ]
+            },
+            "afterSteps": {
+              "matches": []
+            },
+            "storyAndScenarioMeta": {
+              "properties": [
+                {
+                  "@name": "regression",
+                  "@value": ""
+                }
+              ]
+            },
+            "scenario": {
+              "title": "Customer view Header on the Home Us page",
+              "meta": {
+                "properties": [
+                  {
+                    "@name": "regression",
+                    "@value": ""
+                  }
+                ]
+              },
+              "givenStories": {
+                "givenStories": [],
+                "givenStoriesAsString": "",
+                "examplesTable": {
+                  "tableAsString": "",
+                  "headerSeparator": "|",
+                  "valueSeparator": "|",
+                  "ignorableSeparator": "|--",
+                  "tableTransformers": {
+                    "transformers": [
+                      [
+                        "FORMATTING",
+                        {}
+                      ],
+                      [
+                        "REPLACING",
+                        {}
+                      ],
+                      [
+                        "FROM_LANDSCAPE",
+                        {}
+                      ]
+                    ]
+                  },
+                  "headers": [],
+                  "data": [],
+                  "properties": [
+                    {
+                      "@name": "headerSeparator",
+                      "@value": "|"
+                    },
+                    {
+                      "@name": "valueSeparator",
+                      "@value": "|"
+                    },
+                    {
+                      "@name": "ignorableSeparator",
+                      "@value": "|--"
+                    }
+                  ],
+                  "propertiesAsString": "",
+                  "namedParameters": [],
+                  "trim": true
+                }
+              },
+              "examplesTable": {
+                "tableAsString": "",
+                "headerSeparator": "|",
+                "valueSeparator": "|",
+                "ignorableSeparator": "|--",
+                "tableTransformers": {
+                  "transformers": [
+                    [
+                      "FORMATTING",
+                      {}
+                    ],
+                    [
+                      "REPLACING",
+                      {}
+                    ],
+                    [
+                      "FROM_LANDSCAPE",
+                      {}
+                    ]
+                  ]
+                },
+                "headers": [],
+                "data": [],
+                "properties": [
+                  {
+                    "@name": "headerSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "valueSeparator",
+                    "@value": "|"
+                  },
+                  {
+                    "@name": "ignorableSeparator",
+                    "@value": "|--"
+                  }
+                ],
+                "propertiesAsString": "",
+                "namedParameters": [],
+                "trim": true
+              },
+              "steps": [
+                "Given Tom a customer",
+                "When Tom is on the Home page",
+                "Then Tom should be able to see the BGE logo on Home page"
+              ]
+            }
+          },
+          "examplePerformableScenarios": [],
+          "status": "SUCCESSFUL"
+        }
+      ],
+      "beforeSteps": {},
+      "afterSteps": {},
+      "timing": {
+        "durationInMillis": 25866
+      },
+      "givenStory": false
+    }
+  ],
+  "scenarios": [
+    {
+      "scenario": {
+        "title": "Customer view Header on the Home Us page",
+        "meta": {
+          "properties": [
+            {
+              "@name": "regression",
+              "@value": ""
+            }
+          ]
+        },
+        "givenStories": {
+          "givenStories": [],
+          "givenStoriesAsString": "",
+          "examplesTable": {
+            "tableAsString": "",
+            "headerSeparator": "|",
+            "valueSeparator": "|",
+            "ignorableSeparator": "|--",
+            "tableTransformers": {
+              "transformers": [
+                [
+                  "FORMATTING",
+                  {}
+                ],
+                [
+                  "REPLACING",
+                  {}
+                ],
+                [
+                  "FROM_LANDSCAPE",
+                  {}
+                ]
+              ]
+            },
+            "headers": [],
+            "data": [],
+            "properties": [
+              {
+                "@name": "headerSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "valueSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "ignorableSeparator",
+                "@value": "|--"
+              }
+            ],
+            "propertiesAsString": "",
+            "namedParameters": [],
+            "trim": true
+          }
+        },
+        "examplesTable": {
+          "tableAsString": "",
+          "headerSeparator": "|",
+          "valueSeparator": "|",
+          "ignorableSeparator": "|--",
+          "tableTransformers": {
+            "transformers": [
+              [
+                "FORMATTING",
+                {}
+              ],
+              [
+                "REPLACING",
+                {}
+              ],
+              [
+                "FROM_LANDSCAPE",
+                {}
+              ]
+            ]
+          },
+          "headers": [],
+          "data": [],
+          "properties": [
+            {
+              "@name": "headerSeparator",
+              "@value": "|"
+            },
+            {
+              "@name": "valueSeparator",
+              "@value": "|"
+            },
+            {
+              "@name": "ignorableSeparator",
+              "@value": "|--"
+            }
+          ],
+          "propertiesAsString": "",
+          "namedParameters": [],
+          "trim": true
+        },
+        "steps": [
+          "Given Tom a customer",
+          "When Tom is on the Home page",
+          "Then Tom should be able to see the BGE logo on Home page"
+        ]
+      },
+      "storyPath": "stories/consult_story/bge.story",
+      "allowed": true,
+      "normalPerformableScenario": {
+        "parameters": [],
+        "givenStories": [],
+        "beforeSteps": {
+          "matches": []
+        },
+        "steps": {
+          "matches": [],
+          "results": [
+            {
+              "step": "Given Tom a customer",
+              "type": "SUCCESSFUL",
+              "parametrisedStep": "Given Tom a customer",
+              "durationInMillis": 22279
+            },
+            {
+              "step": "When Tom is on the Home page",
+              "type": "SUCCESSFUL",
+              "parametrisedStep": "When Tom is on the Home page",
+              "durationInMillis": 888
+            },
+            {
+              "step": "Then Tom should be able to see the BGE logo on Home page",
+              "type": "SUCCESSFUL",
+              "parametrisedStep": "Then Tom should be able to see the BGE logo on Home page",
+              "durationInMillis": 961
+            }
+          ]
+        },
+        "afterSteps": {
+          "matches": []
+        },
+        "storyAndScenarioMeta": {
+          "properties": [
+            {
+              "@name": "regression",
+              "@value": ""
+            }
+          ]
+        },
+        "scenario": {
+          "title": "Customer view Header on the Home Us page",
+          "meta": {
+            "properties": [
+              {
+                "@name": "regression",
+                "@value": ""
+              }
+            ]
+          },
+          "givenStories": {
+            "givenStories": [],
+            "givenStoriesAsString": "",
+            "examplesTable": {
+              "tableAsString": "",
+              "headerSeparator": "|",
+              "valueSeparator": "|",
+              "ignorableSeparator": "|--",
+              "tableTransformers": {
+                "transformers": [
+                  [
+                    "FORMATTING",
+                    {}
+                  ],
+                  [
+                    "REPLACING",
+                    {}
+                  ],
+                  [
+                    "FROM_LANDSCAPE",
+                    {}
+                  ]
+                ]
+              },
+              "headers": [],
+              "data": [],
+              "properties": [
+                {
+                  "@name": "headerSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "valueSeparator",
+                  "@value": "|"
+                },
+                {
+                  "@name": "ignorableSeparator",
+                  "@value": "|--"
+                }
+              ],
+              "propertiesAsString": "",
+              "namedParameters": [],
+              "trim": true
+            }
+          },
+          "examplesTable": {
+            "tableAsString": "",
+            "headerSeparator": "|",
+            "valueSeparator": "|",
+            "ignorableSeparator": "|--",
+            "tableTransformers": {
+              "transformers": [
+                [
+                  "FORMATTING",
+                  {}
+                ],
+                [
+                  "REPLACING",
+                  {}
+                ],
+                [
+                  "FROM_LANDSCAPE",
+                  {}
+                ]
+              ]
+            },
+            "headers": [],
+            "data": [],
+            "properties": [
+              {
+                "@name": "headerSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "valueSeparator",
+                "@value": "|"
+              },
+              {
+                "@name": "ignorableSeparator",
+                "@value": "|--"
+              }
+            ],
+            "propertiesAsString": "",
+            "namedParameters": [],
+            "trim": true
+          },
+          "steps": [
+            "Given Tom a customer",
+            "When Tom is on the Home page",
+            "Then Tom should be able to see the BGE logo on Home page"
+          ]
+        }
+      },
+      "examplePerformableScenarios": [],
+      "status": "SUCCESSFUL"
+    }
+  ]
+}}

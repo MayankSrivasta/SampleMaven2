@@ -1,0 +1,7 @@
+<story path="stories/consult_story/bge.story" title="">
+<scenario keyword="Scenario:" title="Customer view Header on the Home Us page">
+<step outcome="successful">Given Tom a customer</step>
+<step outcome="successful">When Tom is on the Home page</step>
+<step outcome="successful">Then Tom should be able to see the BGE logo on Home page</step>
+</scenario>
+</story>

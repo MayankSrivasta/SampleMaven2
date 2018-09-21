@@ -1,0 +1,15 @@
+<acceptance-test-run title="Customer view Header on the Home Us page" name="Customer view Header on the Home Us page" steps="3" successful="0" failures="0" skipped="0" ignored="0" pending="3" annotated-result="PENDING" result="PENDING" duration="94" timestamp="2018-08-22T16:34:41.132+05:30">
+  <user-story id="NewStory" name="New story" path="stories/NewStory.story"/>
+  <tags>
+    <tag name="New story" type="story"/>
+  </tags>
+  <test-step result="PENDING" duration="0">
+    <description>Given Tom, a customer</description>
+  </test-step>
+  <test-step result="PENDING" duration="0">
+    <description>When Tom, is on the Home page</description>
+  </test-step>
+  <test-step result="PENDING" duration="0">
+    <description>Then Tom, should be able to see the BGE logo on Home page</description>
+  </test-step>
+</acceptance-test-run>

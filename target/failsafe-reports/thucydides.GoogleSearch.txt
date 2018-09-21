@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: thucydides.GoogleSearch
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 2.271 sec - in thucydides.GoogleSearch

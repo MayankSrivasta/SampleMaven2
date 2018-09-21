@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Sep 21 11:59:11 IST 2018
+threads=1
+total=27000
+stories/consult_story/bge.story=27000
+threadAverage=27000

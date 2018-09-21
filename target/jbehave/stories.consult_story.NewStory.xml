@@ -1,0 +1,25 @@
+<story path="stories/consult_story/NewStory.story" title="">
+<scenario keyword="Scenario:" title="Customer view Header on the Home Us page">
+<step outcome="pending" keyword="PENDING">Given Tom, a customer</step>
+<step outcome="pending" keyword="PENDING">When Tom, is on the Home page</step>
+<step outcome="pending" keyword="PENDING">Then Tom, should be able to see the BGE logo on Home page</step>
+<pendingMethod>@Given(&quot;Tom, a customer&quot;)
+@Pending
+public void givenTomACustomer() {
+  // PENDING
+}
+</pendingMethod>
+<pendingMethod>@When(&quot;Tom, is on the Home page&quot;)
+@Pending
+public void whenTomIsOnTheHomePage() {
+  // PENDING
+}
+</pendingMethod>
+<pendingMethod>@Then(&quot;Tom, should be able to see the BGE logo on Home page&quot;)
+@Pending
+public void thenTomShouldBeAbleToSeeTheBGELogoOnHomePage() {
+  // PENDING
+}
+</pendingMethod>
+</scenario>
+</story>
